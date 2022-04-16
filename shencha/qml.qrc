@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>shencha.config</file>
+        <file>Tzl.qml</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>logo.ico</file>
+    </qresource>
+</RCC>
